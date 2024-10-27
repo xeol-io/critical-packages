@@ -1,0 +1,502 @@
+[
+  {
+    "Name": "activemodel",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "activerecord",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "activesupport",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "addressable",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "aws-eventstream",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "aws-partitions",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "aws-sdk-core",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "aws-sdk-kms",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "aws-sdk-s3",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "aws-sigv4",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "bcrypt",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "bootstrap",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "brakeman",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "builder",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "bundler",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "byebug",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "capybara",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "coderay",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "coffee-script",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "connection_pool",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "css_parser",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "cucumber",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "database_cleaner",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "diff-lcs",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "dotenv",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "erubis",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "excon",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "faraday",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "ffi",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "fog-core",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "globalid",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "grape",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "guard",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "haml",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "httparty",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "i18n",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "jmespath",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "json",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "kaminari",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "listen",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "mail",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "mime-types",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "mini_magick",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "minitest",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "multi_json",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "nokogiri",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "pg",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "pry",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "puma",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "rack",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "rack-test",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "rails",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "redcarpet",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "redis",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "rmagick",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "rspec",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "rspec-core",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "rspec-expectations",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "rspec-mocks",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "sass",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "sequel",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "shoulda",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "sidekiq",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "sinatra",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "spring",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "sprockets",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "thor",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "tilt",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "twitter",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "tzinfo",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "unicorn",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "webmock",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "websocket",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "will_paginate",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "actionmailer",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "actionpack",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "actionview",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "actioncable",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "actionjob",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "activestorage",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "annotate",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "arel",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "bcrypt-ruby",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "bourbon",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "capistrano",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "carrierwave",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "celluloid",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "cocaine",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "coffee-rails",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "concurrent-ruby",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "counter_culture",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "datagrid",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "delayed_job",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "devise",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "draper",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "dry-types",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "factory_bot",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "fog-aws",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "foundation-rails",
+    "Version": "0",
+    "NDependants": "0"
+  },
+  {
+    "Name": "jquery-rails",
+    "Version": "0",
+    "NDependants": "0"
+  }
+]
